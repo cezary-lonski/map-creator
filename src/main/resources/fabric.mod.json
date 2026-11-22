@@ -1,0 +1,33 @@
+{
+	"schemaVersion": 1,
+	"id": "mapcreator",
+	"version": "${version}",
+	"name": "Map Creator by Chicken",
+	"description": "Tworzenie map w stylu unfair rozdzka i GUI, bez komend.",
+	"authors": [
+		"Chicken"
+	],
+	"license": "CC0-1.0",
+	"environment": "*",
+	"mixins": [
+		"mapcreator.mixins.json",
+		{
+			"config": "mapcreator.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"entrypoints": {
+		"main": [
+			"com.chicken.mapcreator.MapCreator"
+		],
+		"client": [
+			"com.chicken.mapcreator.client.MapCreatorClient"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.20.1",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

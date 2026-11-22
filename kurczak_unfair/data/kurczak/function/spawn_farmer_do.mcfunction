@@ -1,0 +1,2 @@
+summon minecraft:villager 15.5 65 6.5 {NoAI:1b,Silent:1b,Invulnerable:1b,CustomName:{text:"Wieśniak"},CustomNameVisible:1b,Tags:["k_ent","k_farmer"],VillagerData:{profession:"minecraft:farmer",type:"minecraft:plains",level:2}}
+summon minecraft:item_display 15.5 65 6.5 {Tags:["k_ent","k_fork"],teleport_duration:1,item:{id:"minecraft:trident",count:1},item_display:"thirdperson_righthand",transformation:{left_rotation:[0f,0f,0f,1f],right_rotation:[0.7071f,0f,0f,0.7071f],translation:[0.35f,1.0f,0.4f],scale:[1.3f,1.3f,1.3f]}}

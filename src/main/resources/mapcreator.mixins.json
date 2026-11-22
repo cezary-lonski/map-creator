@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "com.chicken.mapcreator.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"CombatTrackerMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
