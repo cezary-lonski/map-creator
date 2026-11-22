@@ -29,7 +29,7 @@
 	"mapcreator.death.custom": "%s %s",
 	"mapcreator.storage.header": "Storage: %s rules have fired.",
 	"mapcreator.storage.cleared": "Storage cleared.",
-	"gui.title": "Map Creator by Chicken",
+	"gui.title": "Map Creator",
 	"gui.anchor": "Anchor: %s  [%s]",
 	"gui.summary": "Trigger: %s | events: %s | kill: %s | give: %s | effects: %s",
 	"gui.yes": "yes",

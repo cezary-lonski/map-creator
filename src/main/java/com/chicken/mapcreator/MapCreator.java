@@ -20,7 +20,7 @@ public class MapCreator implements ModInitializer {
 		ChatPrompt.register();
 		MapCreatorCommand.register();
 		TriggerListener.register();
-		LOGGER.info("Map Creator by Chicken loaded");
+		LOGGER.info("Map Creator loaded");
 	}
 
 	public static Identifier id(String path) {

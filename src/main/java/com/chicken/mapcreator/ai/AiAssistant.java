@@ -119,7 +119,7 @@ public final class AiAssistant {
 	}
 
 	private static String systemPrompt(ServerPlayer p) {
-		return "You are the assistant built into the editor of the Minecraft (Java 1.21.11) mod \"Map Creator by Chicken\", used to build "
+		return "You are the assistant built into the editor of the Minecraft (Java 1.21.11) mod \"Map Creator\", used to build "
 				+ "\"unfair\" adventure maps (Enzzi style). You know you are inside the editor and may change ANYTHING in it through the actions below. "
 				+ "A rule belongs to an anchor block: when its trigger fires, its events, mobs and player effects happen. NPCs are a second thing on the same anchor.\n"
 				+ "Reply with ONLY a JSON object: {\"say\": \"short helpful answer in the player's language\", \"actions\": [{\"action\": \"<name>\", \"arg\": \"<string>\"}]}. "

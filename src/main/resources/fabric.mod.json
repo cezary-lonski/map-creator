@@ -2,7 +2,7 @@
 	"schemaVersion": 1,
 	"id": "mapcreator",
 	"version": "${version}",
-	"name": "Map Creator by Chicken",
+	"name": "Map Creator",
 	"description": "Tworzenie map w stylu unfair rozdzka i GUI, bez komend.",
 	"authors": [
 		"Chicken"

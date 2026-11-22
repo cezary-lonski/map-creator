@@ -29,7 +29,7 @@
 	"mapcreator.death.custom": "%s %s",
 	"mapcreator.storage.header": "Storage: odpaliło się reguł: %s.",
 	"mapcreator.storage.cleared": "Storage wyczyszczony.",
-	"gui.title": "Map Creator by Chicken",
+	"gui.title": "Map Creator",
 	"gui.anchor": "Kotwica: %s  [%s]",
 	"gui.summary": "Wywoływacz: %s | zdarzeń: %s | zabij: %s | give: %s | efektów: %s",
 	"gui.yes": "tak",

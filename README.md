@@ -1,4 +1,6 @@
-# Map Creator by Chicken (beta)
+# Map Creator (beta)
+
+Autor: **Chicken**
 
 Mod Fabric do Minecrafta **1.21.11** do tworzenia map w stylu "unfair" (jak u Enzziego) bez komend: rozdzka, menu w stylu skrzyni i opcjonalny asystent AI.
 
